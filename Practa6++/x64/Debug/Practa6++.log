@@ -1,0 +1,3 @@
+﻿  Practa6++.cpp
+C:\Users\Dmitrii Tihonov\source\repos\Practa6++\Practa6++.cpp(140,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Practa6++.vcxproj -> C:\Users\Dmitrii Tihonov\source\repos\Practa6++\x64\Debug\Practa6++.exe
